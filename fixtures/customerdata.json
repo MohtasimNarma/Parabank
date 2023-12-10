@@ -1,0 +1,14 @@
+{
+    "url" : "http://localhost:8080/parabank/index.htm",
+    "lastname" : "TestLastname",
+    "streeth" : "Near Garden Road",
+    "city" : "Ahmedabad",
+    "state" : "Gujarat",
+    "zipcode" : "3455576",
+    "phonenumber" : "9878878787",
+    "ssn" : "767654",
+    "password" : "India@123",
+    "RepeatPassword" : "India@123",
+    "LessAmount" : "3000",
+    "Higheramount" : "6000000"
+}
